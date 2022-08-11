@@ -1,0 +1,5 @@
+﻿  main.cpp
+  roster.cpp
+  Generating Code...
+roster.obj : error LNK2019: unresolved external symbol "public: __cdecl Student::Student(void)" (??0Student@@QEAA@XZ) referenced in function "public: __cdecl Roster::Roster(void)" (??0Roster@@QEAA@XZ)
+C:\Users\Loc\source\repos\studentData_LocNguyen\x64\Debug\studentData_LocNguyen.exe : fatal error LNK1120: 1 unresolved externals
